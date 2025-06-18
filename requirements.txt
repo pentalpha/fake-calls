@@ -1,0 +1,4 @@
+Faker==37.4.0
+pandas==2.3.0
+ollama==0.5.1
+tqdm
