@@ -4,7 +4,7 @@ from faker import Faker
 import ollama
 
 import random
-
+from os import mkdir
 from tqdm import tqdm
 
 """Prioridade,Natureza,TiposAgencia,Obs
@@ -55,9 +55,39 @@ envolvimentos = [
 
 agencias_inverso = {v: k for k, v in agencias.items()}
 
+prompt1 = '''Eu preciso testar um sistema de chamadas de emergencia. Aqui está a descrição de uma chamada em json: {info_dict}
+    Agora, preciso que você gere a transcrição da conversa entre o solicitante e o operador. 
+    Não quero nenhum tipo de elemento no texto que não seja a transcrição. Não incluir notas ao final.
+    Não descrever elementos não falados, como o tom de voz. Quero apenas as palavras que serão ditas.
+    Por favor, tente simular uma situação real.
+    Operador:
+    O operador não tem interesse na idade, nivel de instrução, nivel de desespero, duração da ligação, 
+    hora do incidente e genero do solicitante. Essas são apenas informações descritivas para que você 
+    possa elaborar um roteiro mais realista. Nivel de instrução, duração da ligação e horarios não devem 
+    ser mencionados na chamada. O que importa é a emergencia. O operador tem o papel de realizar um 
+    atendimento humanizado e ajudar o solicitante a dar todos os detalhes necessários.
+    Solicitante (cidadão):
+    Obviamente, o solicitante não vai simplesmente listar os detalhes passados neste prompt perfeitamente. 
+    Dependendo do nível de desespero, informações podem faltar e ele pode ter muita dificuldade para explicar 
+    detalhes que o operador quer.
+    Pessoas de maior idade ou menor nível de instrução poderão ter maior dificuldade para explicar detalhes. 
+    Por outro lado, crianças podem ter dificuldades por não entender o que está acontecendo.
+    O solicitante não saberá exatamente a natureza de ocorrencia, pois esse é um termo técnico, ele vai descrever de forma leiga.'''
+
 if __name__ == "__main__":
     naturezas_df = pd.read_csv("naturezas_exemplo.csv")
-    n = 100
+    #llm_name = 'qwen3:4b'
+    llm_name = 'cnmoro/gemma3-gaia-ptbr-4b:q8_0'
+    output_dir = 'generated/'+llm_name.replace(':', '_').replace('/', '-')+'/'
+    n = 12
+    try:
+        mkdir('generated')
+    except Exception as err:
+        pass
+    try:
+        mkdir(output_dir)
+    except Exception as err:
+        print(err)
 
     naturezas_vec = naturezas_df['Natureza'].tolist()
     all_naturezas = [random.choice(naturezas_vec) for _ in range(n)]
@@ -98,25 +128,14 @@ if __name__ == "__main__":
         print(json.dumps(chamada_dict, indent=4, ensure_ascii=False))
         chamadas.append(chamada_dict)
 
-    json.dump(chamadas, open('chamadas.json', 'w'), indent=4, ensure_ascii=False)
+    json.dump(chamadas, open(output_dir+'chamadas.json', 'w'), indent=4, ensure_ascii=False)
     
     for chamada in tqdm(chamadas):
         chamada_str = json.dumps(chamada, indent=4, ensure_ascii=False)
-        prompt = (f"Eu preciso testar um sistema de chamadas de emergencia. Aqui está a descrição de uma chamada em json: {chamada_str}"
-            + f"\nAgora, preciso que você gere a transcrição da conversa entre o solicitante e o operador. "
-            +"Não quero nenhum tipo de elemento no texto que não seja a transcrição. Por favor, tente simular uma situação real."
-            +"Obviamente, o solicitante não vai simplesmente listar os detalhes passados neste prompt perfeitamente. " 
-            +"Dependendo do nível de desespero, informações podem faltar e ele pode ter muita dificuldade para explicar "
-            +"detalhes que o operador quer. O operador tem o papel de realizar um atendimento humanizado e ajudar o solicitante "
-            +"a dar todos os detalhes necessários. Pessoas de maior idade e menor nível de instrução poderão ter maior dificuldade "
-            +"para explicar detalhes. Por outro lado, crianças podem ter dificuldades por não entender o que está acontecendo."
-            +"O solicitante não saberá exatamente a natureza de ocorrencia, pois esse é um termo técnico. Dele vai descrever de forma leiga"
-            +". O operador não tem interesse na idade, nivel de instrução, nivel de desespero, duração da ligação, hora do incidente e genero do solicitante. "
-            +"Essas são apenas informações"
-            +" descritivas para que você possa elaborar um roteiro mais realista."
-            +"Nivel de instrução, duração da ligação e horarios não devem ser mencionados na chamada. O que importa é a emergencia.")
-        result = ollama.generate(model='qwen3:4b', prompt=prompt)
+        prompt = prompt1.replace('{info_dict}', chamada_str)
+        print(prompt)
+        result = ollama.generate(model=llm_name, prompt=prompt)
         print(result['response'])
         chamada['roteiro'] = result['response']
 
-        json.dump(chamadas, open('chamadas_roteirizadas.json', 'w'), indent=4, ensure_ascii=False)
+        json.dump(chamadas, open(output_dir+'chamadas_roteirizadas.json', 'w'), indent=4, ensure_ascii=False)
