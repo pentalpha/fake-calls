@@ -1,16 +1,5 @@
 [
     {
-        "Street":"Rua Sargento Sampaio",
-        "HouseNumber":"101",
-        "Locality":"Avaí",
-        "Region":"Avaí",
-        "Province":"São Paulo",
-        "PostalCode":"16680-000",
-        "Country":"Brazil",
-        "Latitude":-22.1571496,
-        "Longitude":-49.332942500000002
-    },
-    {
         "Street":"Praça Virgílio Silva",
         "HouseNumber":"82",
         "Locality":"Botelhos",
@@ -21,6 +10,18 @@
         "Latitude":-21.643124,
         "Longitude":-46.395507199999997
     },
+    {
+        "Street":"Rua Sargento Sampaio",
+        "HouseNumber":"101",
+        "Locality":"Avaí",
+        "Region":"Avaí",
+        "Province":"São Paulo",
+        "PostalCode":"16680-000",
+        "Country":"Brazil",
+        "Latitude":-22.1571496,
+        "Longitude":-49.332942500000002
+    },
+    
     {
         "Street":"Rua Gardino Jacinto da Costa",
         "HouseNumber":"427",

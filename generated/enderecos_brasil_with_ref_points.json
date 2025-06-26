@@ -1,0 +1,2717 @@
+[
+    {
+        "Street": "Praça Virgílio Silva",
+        "HouseNumber": "82",
+        "Locality": "Botelhos",
+        "Region": "Botelhos",
+        "Province": "Minas Gerais",
+        "PostalCode": "37720-000",
+        "Country": "Brazil",
+        "Latitude": -21.643124,
+        "Longitude": -46.3955072,
+        "ref_points": [
+            {
+                "name": "Fratelli Pizzaria",
+                "address": "Praça Virgílio Silva, 82, Botelhos",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Ônix Fotografia",
+                "address": "Praça Virgílio Silva, 56 - Centro, Botelhos",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 24.825417658768917
+            },
+            {
+                "name": "Ee São José",
+                "address": "Praça Virgílio Silva, 365 - Centro, Botelhos",
+                "types": [
+                    "primary_school",
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 26.282450429422177
+            }
+        ]
+    },
+    {
+        "Street": "Rua Sargento Sampaio",
+        "HouseNumber": "101",
+        "Locality": "Avaí",
+        "Region": "Avaí",
+        "Province": "São Paulo",
+        "PostalCode": "16680-000",
+        "Country": "Brazil",
+        "Latitude": -22.1571496,
+        "Longitude": -49.3329425,
+        "ref_points": [
+            {
+                "name": "Avai",
+                "address": "Rua Sargento Sampaio, 101, Avaí",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Lily Modas",
+                "address": "R. Domingos Zulian, 460 - Centro, Avaí",
+                "types": [
+                    "clothing_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 4.638708980427366
+            },
+            {
+                "name": "Capinzal sc",
+                "address": "Avaí",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 4.641861657185854
+            }
+        ]
+    },
+    {
+        "Street": "Rua Gardino Jacinto da Costa",
+        "HouseNumber": "427",
+        "Locality": "Botelhos",
+        "Region": "Botelhos",
+        "Province": "Minas Gerais",
+        "PostalCode": "37720-000",
+        "Country": "Brazil",
+        "Latitude": -21.6421393,
+        "Longitude": -46.3869002,
+        "ref_points": [
+            {
+                "name": "Restaurante do Chiquinho",
+                "address": "Rua Gardino Jacinto da Costa, 427, Botelhos",
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Pitangueiras Sport Center",
+                "address": "Rua Gardino Jacinto da Costa, 427, Botelhos",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 76.47400656087376
+            },
+            {
+                "name": "Chácara Boaventura",
+                "address": "Rua Gardino Jacinto da Costa, 427 - Botelhos",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 95.33460285551475
+            }
+        ]
+    },
+    {
+        "Street": "Rua Otávio Rafael Gonçalves",
+        "HouseNumber": "331",
+        "Locality": "Botelhos",
+        "Region": "Botelhos",
+        "Province": "Minas Gerais",
+        "PostalCode": "37720-000",
+        "Country": "Brazil",
+        "Latitude": -21.645935,
+        "Longitude": -46.3896636,
+        "ref_points": [
+            {
+                "name": "Placar Sport Center",
+                "address": "Rua Otávio Rafael Gonçalves, 331, Botelhos",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 1.471058135457395e-09
+            },
+            {
+                "name": "Ac Rural Shop",
+                "address": "Rua Otávio Rafael Gonçalves, Botelhos",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 104.11230133176761
+            },
+            {
+                "name": "Casa De Carnes São José",
+                "address": "Rua Silvio Paulino da Costa, 311, Botelhos",
+                "types": [
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 106.62226598693778
+            }
+        ]
+    },
+    {
+        "Street": "BR-262",
+        "HouseNumber": "1",
+        "Locality": "Campos Altos",
+        "Region": "Campos Altos",
+        "Province": "Minas Gerais",
+        "PostalCode": "38970-000",
+        "Country": "Brazil",
+        "Latitude": -19.6571417,
+        "Longitude": -46.2130778,
+        "ref_points": [
+            {
+                "name": "Churrascaria e Lanchonete Caju Xodó",
+                "address": "BR-262, 1, Campos Altos",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.451588936831656e-10
+            },
+            {
+                "name": "Ipiranga",
+                "address": "BR-262 - Zona Rural, Campos Altos",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.563091117444582
+            },
+            {
+                "name": "Rede HG - Posto Campos Altos",
+                "address": "BR-262, km 598 - Zona Rural, Campos Altos",
+                "types": [
+                    "gas_station",
+                    "convenience_store",
+                    "car_wash",
+                    "car_repair",
+                    "store",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 119.56490012356666
+            }
+        ]
+    },
+    {
+        "Street": "Rua Coronel Frederico Franco",
+        "HouseNumber": "776",
+        "Locality": "Campos Altos",
+        "Region": "Campos Altos",
+        "Province": "Minas Gerais",
+        "PostalCode": "38970-000",
+        "Country": "Brazil",
+        "Latitude": -19.6968591,
+        "Longitude": -46.166702,
+        "ref_points": [
+            {
+                "name": "No Peixe Restaurante e Petiscaria",
+                "address": "Rua Coronel Frederico Franco, 776, Campos Altos",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 1.0583222168143135e-09
+            },
+            {
+                "name": "Casa De Pecas E Conserto",
+                "address": "Rua Coronel Frederico Franco, 125, Campos Altos",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.236978325543888
+            },
+            {
+                "name": "GG ASSISTÊNCIA TÉCNICA AGRÍCOLA LTDA",
+                "address": "Rua Coronel Frederico Franco, 130, Campos Altos",
+                "types": [
+                    "finance",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 11.13390017517988
+            }
+        ]
+    },
+    {
+        "Street": "Rua Elias Tromps",
+        "HouseNumber": "10",
+        "Locality": "Cândido Mendes",
+        "Region": "Cândido Mendes",
+        "Province": "Maranhão",
+        "PostalCode": "65280-000",
+        "Country": "Brazil",
+        "Latitude": -1.4557453,
+        "Longitude": -45.7273467,
+        "ref_points": [
+            {
+                "name": "Arabi burguer",
+                "address": "Avenida Juscelino Kubitschek - Cândido Mendes",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 33.126300955348846
+            },
+            {
+                "name": "Secretaria Municipal de Infraestrutura e Cidades - SEMIC",
+                "address": "Rua Nossa Senhora do Carmo, Cândido Mendes",
+                "types": [
+                    "point_of_interest",
+                    "local_government_office",
+                    "establishment"
+                ],
+                "distance": 34.179387767275315
+            },
+            {
+                "name": "Pastelandia Beer",
+                "address": "Praça Senador Candido Mendes, s/n - Quiosque 8 Centro, Cândido Mendes",
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 34.26236619411036
+            }
+        ]
+    },
+    {
+        "Street": "Rua Jura Núbia",
+        "HouseNumber": "223",
+        "Locality": "Cândido Mendes",
+        "Region": "Cândido Mendes",
+        "Province": "Maranhão",
+        "PostalCode": "65280-000",
+        "Country": "Brazil",
+        "Latitude": -1.448297,
+        "Longitude": -45.7296635,
+        "ref_points": [
+            {
+                "name": "Galeteria Araújo",
+                "address": "Rua Jura Núbia, 223, Cândido Mendes",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "V & D Ateliê",
+                "address": "Brazil",
+                "types": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 41.72027052025778
+            },
+            {
+                "name": "Cantinho Frango",
+                "address": "Rua Castelo Branco - Cândido Mendes",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 51.607513556710686
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Augusto Teixeira",
+        "HouseNumber": "2409",
+        "Locality": "Codó",
+        "Region": "Codó",
+        "Province": "Maranhão",
+        "PostalCode": "65400-000",
+        "Country": "Brazil",
+        "Latitude": -4.4575969,
+        "Longitude": -43.8878508,
+        "ref_points": [
+            {
+                "name": "Borracharia Avenida",
+                "address": "Avenida Augusto Teixeira, 2409, Codó",
+                "types": [
+                    "car_repair",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Acaiteria Codó",
+                "address": "Avenida Augusto Teixeira, 2409, Codó",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Funerária São Francisco CODÓ-MA",
+                "address": "Avenida Augusto Teixeira, 2431A - Centro, Codó",
+                "types": [
+                    "funeral_home",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 4.955971976799482
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Santos Dumont",
+        "HouseNumber": "4139",
+        "Locality": "Codó",
+        "Region": "Codó",
+        "Province": "Maranhão",
+        "PostalCode": "65400-000",
+        "Country": "Brazil",
+        "Latitude": -4.4792657,
+        "Longitude": -43.8913725,
+        "ref_points": [
+            {
+                "name": "Nova Casa Da Picanha",
+                "address": "Avenida Santos Dumont, 4139, Codó",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Auto Elétrica Ponto X",
+                "address": "Avenida Santos Dumont, 4130A, Codó",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 36.69908225421693
+            },
+            {
+                "name": "Jn Auto Electrica",
+                "address": "Brazil",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 45.32234766315284
+            }
+        ]
+    },
+    {
+        "Street": "Rua Agenor Monturil",
+        "HouseNumber": "127-175",
+        "Locality": "Codó",
+        "Region": "Codó",
+        "Province": "Maranhão",
+        "PostalCode": "65400-000",
+        "Country": "Brazil",
+        "Latitude": -4.4616227,
+        "Longitude": -43.8857655,
+        "ref_points": [
+            {
+                "name": "Restaurante e Espeto Alternativo",
+                "address": "Rua Agenor Monturil, 127-175, Codó",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "alternativo burguer",
+                "address": "Avenida Vitórino Freire - Codó",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 5.915775170877189
+            },
+            {
+                "name": "Carlito tur",
+                "address": "Avenida Vitórino Freire, 851-B, Codó",
+                "types": [
+                    "travel_agency",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 18.53932190843733
+            }
+        ]
+    },
+    {
+        "Street": "Rua da Mangueira",
+        "HouseNumber": "865",
+        "Locality": "Codó",
+        "Region": "Codó",
+        "Province": "Maranhão",
+        "PostalCode": "65400-000",
+        "Country": "Brazil",
+        "Latitude": -4.4557118,
+        "Longitude": -43.889073,
+        "ref_points": [
+            {
+                "name": "Restaurante Paladar",
+                "address": "Rua da Mangueira, 865, Codó",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 1.5771958335175168e-09
+            },
+            {
+                "name": "Nakyrah Joias",
+                "address": "Avenida Maranhão, 840-866, Codó",
+                "types": [
+                    "jewelry_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 44.72230507644976
+            },
+            {
+                "name": "Alexsandra Melo - Advocacia Trabalhista & Previdenciária",
+                "address": "RUA DESEMBARGADOR JOAQUIM SANTOS, 833 EM FRENTE À NAKYRA JÓIAS, Rua São Sebastião, Codó",
+                "types": [
+                    "lawyer",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 48.58584302499263
+            }
+        ]
+    },
+    {
+        "Street": "Rua Maximiano Brandao Qd-174",
+        "HouseNumber": "34",
+        "Locality": "Codó",
+        "Region": "Codó",
+        "Province": "Maranhão",
+        "PostalCode": "65400-000",
+        "Country": "Brazil",
+        "Latitude": -4.4682001,
+        "Longitude": -43.8805835,
+        "ref_points": [
+            {
+                "name": "BooKafé Codó",
+                "address": "Rua Maximiano Brandao Qd-174, 34, Codó",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 7.885845933615367e-10
+            },
+            {
+                "name": "Ateliê da Fotografia Cláudia Canuto",
+                "address": "Rua Dr. Ruy Archer - São Sebastião, Codó",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 24.626637403693064
+            },
+            {
+                "name": "TeodoroStudio",
+                "address": "Rua Dr. Ruy Archer QD 178 c16 São Sebastião, Codó",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 51.41295458038533
+            }
+        ]
+    },
+    {
+        "Street": "Rua Nazeu Quadros",
+        "HouseNumber": "406",
+        "Locality": "Codó",
+        "Region": "Codó",
+        "Province": "Maranhão",
+        "PostalCode": "65400-000",
+        "Country": "Brazil",
+        "Latitude": -4.4644267,
+        "Longitude": -43.8828447,
+        "ref_points": [
+            {
+                "name": "Restaurante Malagueta Codó",
+                "address": "Rua Nazeu Quadros, 406, Codó",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.885886230141468e-10
+            },
+            {
+                "name": "Primavera Sabor",
+                "address": "Rua Nazeu Quadros, 6 - Codó",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 83.23764644612169
+            },
+            {
+                "name": "Self Espaço de Yoga",
+                "address": "Rua Francisco Alves Lisbino 1179, Travessa São Sebastião, Codó",
+                "types": [
+                    "gym",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 89.72081863991052
+            }
+        ]
+    },
+    {
+        "Street": "SP-270",
+        "HouseNumber": "483",
+        "Locality": "Conceição de Monte Alegre",
+        "Region": "Paraguaçu Paulista",
+        "Province": "São Paulo",
+        "PostalCode": "19700-000",
+        "Country": "Brazil",
+        "Latitude": -22.5744284,
+        "Longitude": -50.7705237,
+        "ref_points": [
+            {
+                "name": "Restaurante e conveniência São Matheus",
+                "address": "SP-270, 483, Paraguaçu Paulista",
+                "types": [
+                    "restaurant",
+                    "gas_station",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Posto São Matheus Raposo Tavares",
+                "address": "SP-270, km 483, Paraguaçu Paulista",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 74.25774828316985
+            },
+            {
+                "name": "Shell",
+                "address": "Brazil",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 83.47732749706388
+            }
+        ]
+    },
+    {
+        "Street": "BR-262",
+        "HouseNumber": "459",
+        "Locality": "Córrego Danta",
+        "Region": "Córrego Danta",
+        "Province": "Minas Gerais",
+        "PostalCode": "38990-000",
+        "Country": "Brazil",
+        "Latitude": -19.7478658,
+        "Longitude": -45.9976199,
+        "ref_points": [
+            {
+                "name": "Restaurante Parada da Serra",
+                "address": "BR-262, 459, Córrego Danta",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "A Pamonharia",
+                "address": "BR-262, 459, Córrego Danta",
+                "types": [
+                    "cafe",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 12.594043280969885
+            },
+            {
+                "name": "POSTO PARADA DA SERRA",
+                "address": "Brazil",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 35.35223753769632
+            }
+        ]
+    },
+    {
+        "Street": "Rua Devanir José de Castro",
+        "HouseNumber": "210-294",
+        "Locality": "Dionísio",
+        "Region": "Dionísio",
+        "Province": "Minas Gerais",
+        "PostalCode": "35984-000",
+        "Country": "Brazil",
+        "Latitude": -19.8377566,
+        "Longitude": -42.7715636,
+        "ref_points": [
+            {
+                "name": "Restaurante Dom Mineiro",
+                "address": "Rua Devanir José de Castro, 210-294, Dionísio",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Advogado Diogo Lucio",
+                "address": "Av, Rua Senador Milton Campos - Centro, Dionísio",
+                "types": [
+                    "lawyer",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 35.39049054130191
+            },
+            {
+                "name": "Andresa Karine Beleza e Estetica",
+                "address": "Rua Devanir José de Castro, 644, Dionísio",
+                "types": [
+                    "night_club",
+                    "bar",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 35.96775207274973
+            }
+        ]
+    },
+    {
+        "Street": "MA-101",
+        "HouseNumber": "275",
+        "Locality": "Godofredo Viana",
+        "Region": "Godofredo Viana",
+        "Province": "Maranhão",
+        "PostalCode": "65285-000",
+        "Country": "Brazil",
+        "Latitude": -1.4157518,
+        "Longitude": -45.7726826,
+        "ref_points": [
+            {
+                "name": "Hambúrgueria e churrascaria Cia do sabor",
+                "address": "MA-101, 275, Godofredo Viana",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "FarmaMed",
+                "address": "Avenida Teodorico C de Andrade - Godofredo Viana",
+                "types": [
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 5.367341236074335
+            },
+            {
+                "name": "Livrarias Cia",
+                "address": "Avenida Teodorico C de Andrade, 443, Godofredo Viana",
+                "types": [
+                    "book_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 17.812695479067354
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Almirante Tamandaré",
+        "HouseNumber": "1095",
+        "Locality": "Guaíra",
+        "Region": "Guaíra",
+        "Province": "Paraná",
+        "PostalCode": "85980-000",
+        "Country": "Brazil",
+        "Latitude": -24.0796731,
+        "Longitude": -54.2430884,
+        "ref_points": [
+            {
+                "name": "Restaurante Pé de Manga",
+                "address": "Avenida Almirante Tamandaré, 1095, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "7 Saltos Móveis Rústicos",
+                "address": "Avenida Almirante Tamandaré, 1100 - Centro, Guaíra",
+                "types": [
+                    "furniture_store",
+                    "home_goods_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 25.86844407985152
+            },
+            {
+                "name": "CASA DAS REDES",
+                "address": "1294,, Avenida Almirante Tamandaré, 1200, Guaíra",
+                "types": [
+                    "home_goods_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 27.569906763765132
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Mate Laranjeira",
+        "HouseNumber": "1000",
+        "Locality": "Guaíra",
+        "Region": "Guaíra",
+        "Province": "Paraná",
+        "PostalCode": "85980-000",
+        "Country": "Brazil",
+        "Latitude": -24.0828248,
+        "Longitude": -54.247716,
+        "ref_points": [
+            {
+                "name": "Bar do Pedro",
+                "address": "Avenida Mate Laranjeira, 1000, Guaíra",
+                "types": [
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Dymis Confecçoes",
+                "address": "Avenida Mate Laranjeira, 1018, Guaíra",
+                "types": [
+                    "clothing_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 15.598751472191566
+            },
+            {
+                "name": "Restaurante e Lanchonete O Pinguim",
+                "address": "Avenida Mate Laranjeira, 990 - Centro, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 28.901874438850435
+            }
+        ]
+    },
+    {
+        "Street": "Rua Monjoli",
+        "HouseNumber": "685",
+        "Locality": "Guaíra",
+        "Region": "Guaíra",
+        "Province": "Paraná",
+        "PostalCode": "85980-000",
+        "Country": "Brazil",
+        "Latitude": -24.082567,
+        "Longitude": -54.2531192,
+        "ref_points": [
+            {
+                "name": "La Zietta PIZZARIA",
+                "address": "Rua Monjoli, 685, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "OdontoK",
+                "address": "Rua Monjoli, 655 - Centro, Guaíra",
+                "types": [
+                    "dentist",
+                    "point_of_interest",
+                    "health",
+                    "establishment"
+                ],
+                "distance": 15.395682677529699
+            },
+            {
+                "name": "Loja Silmann",
+                "address": "Rua Monjoli, 1152-1214, Guaíra",
+                "types": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 18.14998260283019
+            }
+        ]
+    },
+    {
+        "Street": "Rua Osvaldo Cruz",
+        "HouseNumber": "291",
+        "Locality": "Guaíra",
+        "Region": "Guaíra",
+        "Province": "Paraná",
+        "PostalCode": "85980-000",
+        "Country": "Brazil",
+        "Latitude": -24.0817383,
+        "Longitude": -54.2453865,
+        "ref_points": [
+            {
+                "name": "Moacir Restaurante",
+                "address": "Rua Osvaldo Cruz, 291, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 1.0597029372537317e-09
+            },
+            {
+                "name": "Lazan Restaurante",
+                "address": "Rua Osvaldo Cruz, 291 - Centro, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 4.522427849358008
+            },
+            {
+                "name": "Indústria e Comércio Carpintaria Maske",
+                "address": "Rua Luís Hasper, 1005, Guaíra",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 67.70949359840725
+            }
+        ]
+    },
+    {
+        "Street": "Rua Shigiro Matsuyama",
+        "HouseNumber": "62",
+        "Locality": "Guaíra",
+        "Region": "Guaíra",
+        "Province": "Paraná",
+        "PostalCode": "85980-000",
+        "Country": "Brazil",
+        "Latitude": -24.0838091,
+        "Longitude": -54.2451427,
+        "ref_points": [
+            {
+                "name": "Subway",
+                "address": "Rua Shigiro Matsuyama, 62 - Centro, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Espetinho Da Fia",
+                "address": "Praça Castelo Branco, 450 - Centro, Guaíra",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 13.164306436535655
+            },
+            {
+                "name": "Borracharia Guaíra Pneus",
+                "address": "Rua Shingiro Matsuyama, 38 - Centro, Guaíra",
+                "types": [
+                    "car_repair",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 21.538173980172445
+            }
+        ]
+    },
+    {
+        "Street": "Rua Arthur Magalhães",
+        "HouseNumber": "5",
+        "Locality": "Iramaia",
+        "Region": "Iramaia",
+        "Province": "Bahia",
+        "PostalCode": "46770-000",
+        "Country": "Brazil",
+        "Latitude": -13.2940403,
+        "Longitude": -40.9583151,
+        "ref_points": [
+            {
+                "name": "Lanchonete Kidelícia",
+                "address": "Rua Arthur Magalhães, 05, Iramaia",
+                "types": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 7.699129794635359e-10
+            },
+            {
+                "name": "ALPHA - Comércio e Serviços",
+                "address": "Rua Arthur Magalhães, Iramaia",
+                "types": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 5.136354211578145
+            },
+            {
+                "name": "MUNDIAL Igreja do Poder de Deus",
+                "address": "Rua Arthur Magalhães, 44 - Iramaia",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 14.711978558017787
+            }
+        ]
+    },
+    {
+        "Street": "Rua Assunção",
+        "HouseNumber": "154-210",
+        "Locality": "Itapaci",
+        "Region": "Itapaci",
+        "Province": "Goiás",
+        "PostalCode": "76360-000",
+        "Country": "Brazil",
+        "Latitude": -14.955792,
+        "Longitude": -49.548553,
+        "ref_points": [
+            {
+                "name": "Primus Bar e Restaurante",
+                "address": "Rua Assunção, 154-210, Itapaci",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Eduvirgem Aranha Advogado",
+                "address": "Rua Benedito Gonçalves, 14, Itapaci",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 26.89509434999832
+            },
+            {
+                "name": "Advocacia | Consultoria",
+                "address": "Rua Assunção - Centro, Itapaci",
+                "types": [
+                    "lawyer",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 27.146543683886456
+            }
+        ]
+    },
+    {
+        "Street": "Rua Domiciano Peixoto",
+        "HouseNumber": "2-106",
+        "Locality": "Itapaci",
+        "Region": "Itapaci",
+        "Province": "Goiás",
+        "PostalCode": "76360-000",
+        "Country": "Brazil",
+        "Latitude": -14.9519262,
+        "Longitude": -49.5479543,
+        "ref_points": [
+            {
+                "name": "Esquinão do Espeto",
+                "address": "Rua Domiciano Peixoto, 2-106, Itapaci",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 7.643626505843939e-10
+            },
+            {
+                "name": "Super Vinte Cinco",
+                "address": "Brazil",
+                "types": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 37.01103929498424
+            },
+            {
+                "name": "CONTATO",
+                "address": "Avenida Floresta, 542 - Centro, Itapaci",
+                "types": [
+                    "clothing_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 43.45203555428816
+            }
+        ]
+    },
+    {
+        "Street": "SP-165",
+        "HouseNumber": "111",
+        "Locality": "Itapeúna",
+        "Region": "Eldorado",
+        "Province": "São Paulo",
+        "PostalCode": "11960-000",
+        "Country": "Brazil",
+        "Latitude": -24.6355533,
+        "Longitude": -48.4044303,
+        "ref_points": [
+            {
+                "name": "Kaverna Restaurante e Lanchonete",
+                "address": "SP-165, 111, Eldorado",
+                "types": [
+                    "restaurant",
+                    "meal_takeaway",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Portal do P.E. Caverna do Diabo",
+                "address": "9H7W+R5 - Itapeúna, Eldorado",
+                "types": [
+                    "tourist_attraction",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 20.961886287615776
+            },
+            {
+                "name": "Mirante do Governador",
+                "address": "Caverna da Tapagem - P.E, Eldorado",
+                "types": [
+                    "tourist_attraction",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 44.74220771717453
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Santo Inácio",
+        "HouseNumber": "27",
+        "Locality": "Jesuítas",
+        "Region": "Jesuítas",
+        "Province": "Paraná",
+        "PostalCode": "85835-000",
+        "Country": "Brazil",
+        "Latitude": -24.3841207,
+        "Longitude": -53.3892008,
+        "ref_points": [
+            {
+                "name": "Sabor Caseiro Restaurante",
+                "address": "Avenida Santo Inácio, 27, Jesuítas",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Supermercado Paschoal",
+                "address": "Avenida Padre Anchieta, 1114, Jesuítas",
+                "types": [
+                    "supermarket",
+                    "grocery_or_supermarket",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 42.385370198602395
+            },
+            {
+                "name": "Marcenaria Wh Romão",
+                "address": "Rua Santo Hugo, 1245, Jesuítas",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 46.96869561888548
+            }
+        ]
+    },
+    {
+        "Street": "Rua Papa São Cornélio",
+        "HouseNumber": "155",
+        "Locality": "Jesuítas",
+        "Region": "Jesuítas",
+        "Province": "Paraná",
+        "PostalCode": "85835-000",
+        "Country": "Brazil",
+        "Latitude": -24.3825605,
+        "Longitude": -53.3905451,
+        "ref_points": [
+            {
+                "name": "Neco's Pizzas",
+                "address": "Rua Papa São Cornélio, 155, Jesuítas",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.208365232942786e-10
+            },
+            {
+                "name": "IGREJA BATISTA",
+                "address": "Rua Papa Pio XII, 327-409, Jesuítas",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 74.09412566372363
+            },
+            {
+                "name": "APAE-assoc de Pais e Amigos dos Excepcionais de Jesuítas",
+                "address": "Rua Papa Pio XII, 556, Jesuítas",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 119.29879488916943
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Doutor Josaphat Macedo",
+        "HouseNumber": "714",
+        "Locality": "Luz",
+        "Region": "Luz",
+        "Province": "Minas Gerais",
+        "PostalCode": "35595-000",
+        "Country": "Brazil",
+        "Latitude": -19.7913911,
+        "Longitude": -45.6814316,
+        "ref_points": [
+            {
+                "name": "Restaurante Ki Sabor em Luz - MG, Comida Caseira",
+                "address": "Avenida Doutor Josaphat Macedo, 714, Luz",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 1.4890737688013073e-09
+            },
+            {
+                "name": "Panificadora e Lanchonete Kí Delícia",
+                "address": "Avenida Doutor Josaphat Macedo, 720 - Centro, Luz",
+                "types": [
+                    "bakery",
+                    "meal_takeaway",
+                    "cafe",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 17.973601374890595
+            },
+            {
+                "name": "Bar cê ki sabe",
+                "address": "Av dr josaphah macedo Rotaria - Monsenhor Parreira, Luz",
+                "types": [
+                    "bar",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 21.607174291201115
+            }
+        ]
+    },
+    {
+        "Street": "Estrada Araxá",
+        "HouseNumber": "214-280",
+        "Locality": "Luz",
+        "Region": "Luz",
+        "Province": "Minas Gerais",
+        "PostalCode": "35595-000",
+        "Country": "Brazil",
+        "Latitude": -19.7824842,
+        "Longitude": -45.6857718,
+        "ref_points": [
+            {
+                "name": "Posto Via Luz",
+                "address": "Estrada Araxá, 214-280, Luz",
+                "types": [
+                    "gas_station",
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Total",
+                "address": "Brazil",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 29.958699549220892
+            },
+            {
+                "name": "Restaurante Via Luz",
+                "address": "Estrada Araxá, 214-280, Luz",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 51.0022649282793
+            }
+        ]
+    },
+    {
+        "Street": "Praça Antônio Carlos",
+        "HouseNumber": "6",
+        "Locality": "Machado",
+        "Region": "Machado",
+        "Province": "Minas Gerais",
+        "PostalCode": "37750-000",
+        "Country": "Brazil",
+        "Latitude": -21.6754542,
+        "Longitude": -45.9226289,
+        "ref_points": [
+            {
+                "name": "Churrascaria Carretão",
+                "address": "Praça Antônio Carlos, 6, Machado",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.353794525567956e-10
+            },
+            {
+                "name": "Lorrana Negretti Arquitetura & Engenharia",
+                "address": "Praça Antônio Carlos, 6, Machado",
+                "types": [
+                    "general_contractor",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 3.928336546382809
+            },
+            {
+                "name": "Safide",
+                "address": "Rua Astolfo Pio, Machado",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 11.837312400171067
+            }
+        ]
+    },
+    {
+        "Street": "Rua Coronel Francisco Viêira",
+        "HouseNumber": "460",
+        "Locality": "Machado",
+        "Region": "Machado",
+        "Province": "Minas Gerais",
+        "PostalCode": "37750-000",
+        "Country": "Brazil",
+        "Latitude": -21.6778004,
+        "Longitude": -45.9176557,
+        "ref_points": [
+            {
+                "name": "ATG VIDROS",
+                "address": "Rua Coronel Francisco Viêira, 460, Machado",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "RESTAURANTE AMÉLIA",
+                "address": "Rua Coronel Francisco Viêira, 460, Machado",
+                "types": [
+                    "restaurant",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Posto Shell",
+                "address": "Rua Coronel Francisco Viêira, 450 - Centro, Machado",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 5.285235053339213
+            }
+        ]
+    },
+    {
+        "Street": "Avenida da Esperança",
+        "HouseNumber": "335",
+        "Locality": "Mineirolândia",
+        "Region": "Pedra Branca",
+        "Province": "Ceará",
+        "PostalCode": "63630-000",
+        "Country": "Brazil",
+        "Latitude": -5.5221761,
+        "Longitude": -39.5947273,
+        "ref_points": [
+            {
+                "name": "Churrascaria Espeto De Prata",
+                "address": "Avenida da Esperança, 335 - Mineirolândia, Pedra Branca",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 1.5746521554582638e-09
+            },
+            {
+                "name": "Transvale - Pedra Branca",
+                "address": "Av da Esperança, 329, Pedra Branca",
+                "types": [
+                    "moving_company",
+                    "local_government_office",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 9.034214403742405
+            },
+            {
+                "name": "Igreja Assembleia de Deus Templo Central - Distrito Mineirolândia",
+                "address": "BR-226, 336 - Mineirolândia, Pedra Branca",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 41.813883003555915
+            }
+        ]
+    },
+    {
+        "Street": "BR-226",
+        "HouseNumber": "730",
+        "Locality": "Mineirolândia",
+        "Region": "Pedra Branca",
+        "Province": "Ceará",
+        "PostalCode": "63630-000",
+        "Country": "Brazil",
+        "Latitude": -5.5220379,
+        "Longitude": -39.6233721,
+        "ref_points": [
+            {
+                "name": "Praia do Coco",
+                "address": "BR-226, 730, Pedra Branca",
+                "types": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.873262601101884e-10
+            },
+            {
+                "name": "Capela",
+                "address": "Pedra Branca",
+                "types": [
+                    "church",
+                    "place_of_worship",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 88.52405104417794
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Presidente Vargas",
+        "HouseNumber": "156-304",
+        "Locality": "Montes Claros de Goiás",
+        "Region": "Montes Claros de Goiás",
+        "Province": "Goiás",
+        "PostalCode": "76255-000",
+        "Country": "Brazil",
+        "Latitude": -16.0053699,
+        "Longitude": -51.3977209,
+        "ref_points": [
+            {
+                "name": "Sorveteria e Pizzaria Verde Limão",
+                "address": "Avenida Presidente Vargas, 156-304, Montes Claros de Goiás",
+                "types": [
+                    "store",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Gráfica Futura",
+                "address": "Avenida Santos Dumont, qd9 lt44, sala B - Centro, Montes Claros de Goiás",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 6.538116654912362
+            },
+            {
+                "name": "DROGARIA DOM BOSCO",
+                "address": "Avenida Santos Dumont, 552-662, Montes Claros de Goiás",
+                "types": [
+                    "drugstore",
+                    "pharmacy",
+                    "store",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 15.113594283663076
+            }
+        ]
+    },
+    {
+        "Street": "Rua José da Fonseca",
+        "HouseNumber": "60",
+        "Locality": "Montes Claros de Goiás",
+        "Region": "Montes Claros de Goiás",
+        "Province": "Goiás",
+        "PostalCode": "76255-000",
+        "Country": "Brazil",
+        "Latitude": -16.0064511,
+        "Longitude": -51.3886675,
+        "ref_points": [
+            {
+                "name": "PIT DOG DO CAÇULA",
+                "address": "Rua José da Fonseca, 60, Montes Claros de Goiás",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Montes Claros de Goiás",
+                "address": "Montes Claros de Goiás",
+                "types": [
+                    "locality",
+                    "political"
+                ],
+                "distance": 1092.0853479251919
+            }
+        ]
+    },
+    {
+        "Street": "Avenida São Luiz",
+        "HouseNumber": "632",
+        "Locality": "Nova Aurora",
+        "Region": "Nova Aurora",
+        "Province": "Paraná",
+        "PostalCode": "85410-000",
+        "Country": "Brazil",
+        "Latitude": -24.5260168,
+        "Longitude": -53.2586285,
+        "ref_points": [
+            {
+                "name": "SuperMercado Cassaro",
+                "address": "Avenida São Luiz, 632, Nova Aurora",
+                "types": [
+                    "liquor_store",
+                    "supermarket",
+                    "grocery_or_supermarket",
+                    "bakery",
+                    "bar",
+                    "store",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "IMOBILIARIA RR FUHR",
+                "address": "Avenida Castro Alves, 64 - Nova Aurora",
+                "types": [
+                    "real_estate_agency",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 5.503382034486272
+            },
+            {
+                "name": "Otica e Relojoaria Orient",
+                "address": "Rua São Luís, 652, Nova Aurora",
+                "types": [
+                    "health",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 11.61605567125835
+            }
+        ]
+    },
+    {
+        "Street": "Rua São Luís",
+        "HouseNumber": "983",
+        "Locality": "Nova Aurora",
+        "Region": "Nova Aurora",
+        "Province": "Paraná",
+        "PostalCode": "85410-000",
+        "Country": "Brazil",
+        "Latitude": -24.5274423,
+        "Longitude": -53.2556674,
+        "ref_points": [
+            {
+                "name": "Centro De Reparação Automotiva Nova Aurora",
+                "address": "Rua São Luís, 945, Nova Aurora",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 23.23490295387769
+            },
+            {
+                "name": "Igreja Assembleia De Deus Ministerio De Itajai SC",
+                "address": "Rua Manaus, 576 - Centro, Nova Aurora",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 31.0217655798757
+            },
+            {
+                "name": "Veronice Alves de Oliveira",
+                "address": "Rua Aracajú, 105, Nova Aurora",
+                "types": [
+                    "bank",
+                    "finance",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 36.47161190041418
+            }
+        ]
+    },
+    {
+        "Street": "Rua Doutor Alckmin",
+        "HouseNumber": "33",
+        "Locality": "Olhos-d'Água",
+        "Region": "Olhos D'Água",
+        "Province": "Minas Gerais",
+        "PostalCode": "39398-000",
+        "Country": "Brazil",
+        "Latitude": -17.3976313,
+        "Longitude": -43.5718872,
+        "ref_points": [
+            {
+                "name": "Padaria Laispan",
+                "address": "Rua Doutor Alckmin, 33, Olhos-d'Água",
+                "types": [
+                    "restaurant",
+                    "bakery",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "INFOTECH TELECOM NETWORK",
+                "address": "Rua Argentino Filogônio, 95 - Centro, Olhos-d'Água",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 26.349080460541916
+            },
+            {
+                "name": "Transolhos",
+                "address": "Rua Argentino Filogônio, Olhos-d'Água",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 30.361430404084654
+            }
+        ]
+    },
+    {
+        "Street": "PR-364",
+        "HouseNumber": "584",
+        "Locality": "Ouro Verde do Piquiri",
+        "Region": "Corbélia",
+        "Province": "Paraná",
+        "PostalCode": "85420-000",
+        "Country": "Brazil",
+        "Latitude": -24.5598592,
+        "Longitude": -53.1302902,
+        "ref_points": [
+            {
+                "name": "Restaurante Luiz",
+                "address": "PR-364, 584, Corbélia",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 0.0
+            }
+        ]
+    },
+    {
+        "Street": "Av. B Q",
+        "HouseNumber": "7",
+        "Locality": "Paranã",
+        "Region": "Paranã",
+        "Province": "Tocantins",
+        "PostalCode": "77360-000",
+        "Country": "Brazil",
+        "Latitude": -12.6154226,
+        "Longitude": -47.87311,
+        "ref_points": [
+            {
+                "name": "Jantinha da Edsonia",
+                "address": "Av. B Q, 7 - Lote 9 - Paranã",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Lu Copias & Papelaria",
+                "address": "Avenida A Qd 07 Lt 01 - Vila Nova, Paranã",
+                "types": [
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 123.44529598731951
+            },
+            {
+                "name": "Keyth Marrone lash designer extensão de cílios",
+                "address": "Rua 06, quadra 11 - fundos, Paranã",
+                "types": [
+                    "beauty_salon",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 138.684497034874
+            }
+        ]
+    },
+    {
+        "Street": "Avenida A",
+        "HouseNumber": "3222",
+        "Locality": "Paranã",
+        "Region": "Paranã",
+        "Province": "Tocantins",
+        "PostalCode": "77360-000",
+        "Country": "Brazil",
+        "Latitude": -12.6173307,
+        "Longitude": -47.8760203,
+        "ref_points": [
+            {
+                "name": "Rangar",
+                "address": "Avenida A, 3222, Paranã",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "DB Moda Íntima",
+                "address": "Av. TO 242, 0 - Q. 07, L. 2 - Aeroporto, Paranã",
+                "types": [
+                    "clothing_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 45.72427391866457
+            },
+            {
+                "name": "MUNDO DIGITAL ELETROINFO",
+                "address": "AV. TO 242, 0 - QD.11 LT.18 Setor Aeroporto - SETOR AEROPORTO, Paranã",
+                "types": [
+                    "electronics_store",
+                    "home_goods_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 46.93223815883825
+            }
+        ]
+    },
+    {
+        "Street": "Rua 21",
+        "HouseNumber": "45",
+        "Locality": "Paranã",
+        "Region": "Paranã",
+        "Province": "Tocantins",
+        "PostalCode": "77360-000",
+        "Country": "Brazil",
+        "Latitude": -12.6159974,
+        "Longitude": -47.8790776,
+        "ref_points": [
+            {
+                "name": "Espaço Familia",
+                "address": "Rua 21, 45, Paranã",
+                "types": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Hotel Ilha das Palmas",
+                "address": "Praça das mangueiras, 240 - Centro, Paranã",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 21.90623438960466
+            },
+            {
+                "name": "Colegio Estadual Desembargador Virgilio De Melo Franco",
+                "address": "Praça Nossa Senhora De Fatima, S/N - Centro, Paranã",
+                "types": [
+                    "school",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 27.726914370593164
+            }
+        ]
+    },
+    {
+        "Street": "Distrito de 86340",
+        "HouseNumber": "0",
+        "Locality": "Paranagi",
+        "Region": "Sertaneja",
+        "Province": "Paraná",
+        "PostalCode": "86340-000",
+        "Country": "Brazil",
+        "Latitude": -22.8073764,
+        "Longitude": -50.9939387,
+        "ref_points": [
+            {
+                "name": "Quadra",
+                "address": "Estância Punta Del Este - Paranagi - Distrito de, Sertaneja",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Restaurante Punta Del Este",
+                "address": "Aeroporto Estância Punta Del Este, Estância Punta Del Este - Distrito de 86340, 000 - Paranagi, Sertaneja",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Estância Punta Del Este",
+                "address": "Estância Punta Del Este, Sertaneja",
+                "types": [
+                    "airport",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            }
+        ]
+    },
+    {
+        "Street": "Rodovia Marechal Rondon",
+        "HouseNumber": "935",
+        "Locality": "Pirajuí",
+        "Region": "Pirajuí",
+        "Province": "São Paulo",
+        "PostalCode": "16600-000",
+        "Country": "Brazil",
+        "Latitude": -22.0079954,
+        "Longitude": -49.4229777,
+        "ref_points": [
+            {
+                "name": "Restaurante Andrade",
+                "address": "Rodovia Marechal Rondon, 935, Pirajuí",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Sinuka Bar",
+                "address": "Brazil",
+                "types": [
+                    "bar",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 17.908958132763694
+            },
+            {
+                "name": "Pousada",
+                "address": "Brazil",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 48.621821527449946
+            }
+        ]
+    },
+    {
+        "Street": "Rua Nove de Julho",
+        "HouseNumber": "500",
+        "Locality": "Pirajuí",
+        "Region": "Pirajuí",
+        "Province": "São Paulo",
+        "PostalCode": "16600-000",
+        "Country": "Brazil",
+        "Latitude": -21.9931787,
+        "Longitude": -49.4586116,
+        "ref_points": [
+            {
+                "name": "Restaurante Castelinho",
+                "address": "Rua Nove de Julho, 500, Pirajuí",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Auto Capas Frederico - Pirajuí",
+                "address": "Rua Nove de Julho, 496 - centro, Pirajuí",
+                "types": [
+                    "furniture_store",
+                    "home_goods_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 12.252987955753174
+            },
+            {
+                "name": "Margarete Berenice Castellani Gonçalves-ME",
+                "address": "Rua Nove de Julho, 464 - Centro, Pirajuí",
+                "types": [
+                    "clothing_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 19.8985397801824
+            }
+        ]
+    },
+    {
+        "Street": "Rio-Bahia",
+        "HouseNumber": "7",
+        "Locality": "Ponto do Marambaia",
+        "Region": "Caraí",
+        "Province": "Minas Gerais",
+        "PostalCode": "39810-000",
+        "Country": "Brazil",
+        "Latitude": -17.1768779,
+        "Longitude": -41.496067,
+        "ref_points": [
+            {
+                "name": "Churrascaria e pousada Rio Sul",
+                "address": "Av, Rio-Bahia, 7, Caraí",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Pousada Rio Sul",
+                "address": "Rio-Bahia, 7, Caraí",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.222575325317348
+            },
+            {
+                "name": "Borracharia e Mecânica",
+                "address": "Rio-Bahia, 7 - Ponto do Marambaia, Caraí",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 131.69638945403642
+            }
+        ]
+    },
+    {
+        "Street": "Rua Maranhão",
+        "HouseNumber": "63",
+        "Locality": "Ponto do Marambaia",
+        "Region": "Caraí",
+        "Province": "Minas Gerais",
+        "PostalCode": "39810-000",
+        "Country": "Brazil",
+        "Latitude": -17.1839584,
+        "Longitude": -41.4846536,
+        "ref_points": [
+            {
+                "name": "Lanchonete e Sorveteria Master",
+                "address": "Rua Maranhão, 63 - Ponto do Marambaia, Caraí",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "AGROGIL VETERINÁRIA",
+                "address": "Ponto do Marambaia, Caraí",
+                "types": [
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.21072278130396
+            },
+            {
+                "name": "Supermercado do Nego",
+                "address": "Rua Maranhão, 63 - Ponto do Marambaia, Caraí",
+                "types": [
+                    "grocery_or_supermarket",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 12.484534170246208
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Arthur Bernardes",
+        "HouseNumber": "490",
+        "Locality": "Porteirinha",
+        "Region": "Porteirinha",
+        "Province": "Minas Gerais",
+        "PostalCode": "39520-000",
+        "Country": "Brazil",
+        "Latitude": -15.7396419,
+        "Longitude": -43.0241233,
+        "ref_points": [
+            {
+                "name": "Churrascaria Brasas Grill",
+                "address": "Avenida Arthur Bernardes, 490, Porteirinha",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Rei das Tintas Porteirinha",
+                "address": "Avenida Arthur Bernardes, 480, Porteirinha",
+                "types": [
+                    "home_goods_store",
+                    "general_contractor",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 12.332517594751963
+            },
+            {
+                "name": "Imagin Lar & Construção",
+                "address": "Avenida Arthur Bernardes, 498 - Loja - Centro, Porteirinha",
+                "types": [
+                    "general_contractor",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 14.281919820708026
+            }
+        ]
+    },
+    {
+        "Street": "Rua Orozimbo Martins",
+        "HouseNumber": "20",
+        "Locality": "Porteirinha",
+        "Region": "Porteirinha",
+        "Province": "Minas Gerais",
+        "PostalCode": "39520-000",
+        "Country": "Brazil",
+        "Latitude": -15.7518276,
+        "Longitude": -43.031344,
+        "ref_points": [
+            {
+                "name": "Dan Burguer",
+                "address": "Rua Orozimbo Martins, 20, Porteirinha",
+                "types": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "H3 ALIMENTOS LTDA.",
+                "address": "Rua Gentil Martins Ribeiro, 189, Porteirinha",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 50.07517402284857
+            },
+            {
+                "name": "IF Itamara Francielly -studio de beleza-",
+                "address": "Rua Mestre Silvano, 90, Porteirinha",
+                "types": [
+                    "beauty_salon",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 58.83191214826362
+            }
+        ]
+    },
+    {
+        "Street": "Rua Nove",
+        "HouseNumber": "510",
+        "Locality": "Primeiro de Maio",
+        "Region": "Primeiro de Maio",
+        "Province": "Paraná",
+        "PostalCode": "86140-000",
+        "Country": "Brazil",
+        "Latitude": -22.8549604,
+        "Longitude": -51.0255346,
+        "ref_points": [
+            {
+                "name": "Restaurante Gula Gula",
+                "address": "Rua Nove, 510, Primeiro de Maio",
+                "types": [
+                    "restaurant",
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Casa De Pesca Tri-Campeão",
+                "address": "Rua Nove, 486 - Centro, Primeiro de Maio",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 24.76586600127909
+            },
+            {
+                "name": "Siri Kascudu",
+                "address": "Rua Nove, 489, Primeiro de Maio",
+                "types": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 26.631951707765225
+            }
+        ]
+    },
+    {
+        "Street": "Rua Quatro",
+        "HouseNumber": "88",
+        "Locality": "Primeiro de Maio",
+        "Region": "Primeiro de Maio",
+        "Province": "Paraná",
+        "PostalCode": "86140-000",
+        "Country": "Brazil",
+        "Latitude": -22.8554605,
+        "Longitude": -51.0303998,
+        "ref_points": [
+            {
+                "name": "Pitada da Cheff",
+                "address": "Rua Quatro, 88, Primeiro de Maio",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Vidraçaria Souza",
+                "address": "Rua Quatro, N° 88 - Centro, Primeiro de Maio",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 3.950007561491723
+            },
+            {
+                "name": "Inova100",
+                "address": "Rua Quatro, 35 - Centro, Primeiro de Maio",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 17.662350771919442
+            }
+        ]
+    },
+    {
+        "Street": "MG-230",
+        "HouseNumber": "201",
+        "Locality": "Salitre de Minas",
+        "Region": "Patrocínio",
+        "Province": "Minas Gerais",
+        "PostalCode": "38749-600",
+        "Country": "Brazil",
+        "Latitude": -19.0707004,
+        "Longitude": -46.7964044,
+        "ref_points": [
+            {
+                "name": "Posto e Restaurante Salitre",
+                "address": "SALITRE DE MINAS 83, MG-230, 201, Patrocínio",
+                "types": [
+                    "gas_station",
+                    "convenience_store",
+                    "car_repair",
+                    "restaurant",
+                    "point_of_interest",
+                    "store",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 7.478281820586768e-10
+            },
+            {
+                "name": "TotalEnergies",
+                "address": "Rua Emirena Alves, 201 - Salitre de Minas, Patrocínio",
+                "types": [
+                    "gas_station",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 12.89573081959501
+            },
+            {
+                "name": "Restaurante Salitre",
+                "address": "s/n da - RUA Emirena Alves, nº 201 a margem da G, MG-230, 230 - km 83, Patrocínio",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 23.918643458874655
+            }
+        ]
+    },
+    {
+        "Street": "Rua Dom Pedro II",
+        "HouseNumber": "1313",
+        "Locality": "Santo Cristo",
+        "Region": "Santo Cristo",
+        "Province": "Rio Grande do Sul",
+        "PostalCode": "98960-000",
+        "Country": "Brazil",
+        "Latitude": -27.8291312,
+        "Longitude": -54.6583919,
+        "ref_points": [
+            {
+                "name": "Churrascaria do Marcelo",
+                "address": "Avenida Dom Pedro II, 1313, Santo Cristo",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 1.4000048847864187e-09
+            },
+            {
+                "name": "Alemão Pneus",
+                "address": "Rua Santos Cristo, 1672-1760, Santo Cristo",
+                "types": [
+                    "car_repair",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 9.475359406896992
+            },
+            {
+                "name": "Palpites esportivos",
+                "address": "Avenida Dom Pedro II, 1676, Santo Cristo",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 20.946950304171853
+            }
+        ]
+    },
+    {
+        "Street": "Rua Tenente Jung",
+        "HouseNumber": "582",
+        "Locality": "Santo Cristo",
+        "Region": "Santo Cristo",
+        "Province": "Rio Grande do Sul",
+        "PostalCode": "98960-000",
+        "Country": "Brazil",
+        "Latitude": -27.8256826,
+        "Longitude": -54.6651729,
+        "ref_points": [
+            {
+                "name": "Frantz - Restaurante e Hotel",
+                "address": "Rua Tenente Jung, 582, Santo Cristo",
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "distance": 1.4000491319451049e-09
+            },
+            {
+                "name": "Crislei Escola de Negócios",
+                "address": "Rua Tenente Jung, 577 - Sala 1 - Centro, Santo Cristo",
+                "types": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 19.02563492735872
+            },
+            {
+                "name": "Gigabyte Tecnologias",
+                "address": "Rua Tenente Jung, 577 - Sala 1 - Centro, Santo Cristo",
+                "types": [
+                    "electronics_store",
+                    "point_of_interest",
+                    "store",
+                    "establishment"
+                ],
+                "distance": 23.793940366513308
+            }
+        ]
+    },
+    {
+        "Street": "Rua Tenente Jung",
+        "HouseNumber": "677-819",
+        "Locality": "Santo Cristo",
+        "Region": "Santo Cristo",
+        "Province": "Rio Grande do Sul",
+        "PostalCode": "98960-000",
+        "Country": "Brazil",
+        "Latitude": -27.8249553,
+        "Longitude": -54.6644978,
+        "ref_points": [
+            {
+                "name": "Pit Stop Restaurante",
+                "address": "Rua Tenente Jung, 677-819, Santo Cristo",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.055481445428757e-10
+            },
+            {
+                "name": "Farmácia São João",
+                "address": "Rua Tenente Jung, 520 - CENTRO, Santo Cristo",
+                "types": [
+                    "pharmacy",
+                    "health",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 15.15948600553921
+            },
+            {
+                "name": "Center & Chaplin",
+                "address": "Rua Tenente Jung, 497, Santo Cristo",
+                "types": [
+                    "movie_rental",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 22.951806180557135
+            }
+        ]
+    },
+    {
+        "Street": "Rua Padre Pedro Domingues",
+        "HouseNumber": "41",
+        "Locality": "São Domingos do Prata",
+        "Region": "São Domingos do Prata",
+        "Province": "Minas Gerais",
+        "PostalCode": "35995-000",
+        "Country": "Brazil",
+        "Latitude": -19.8631997,
+        "Longitude": -42.9689784,
+        "ref_points": [
+            {
+                "name": "Cantina da Neca",
+                "address": "Rua Padre Pedro Domingues, 41, São Domingos do Prata",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Plan Flores Plano Familiar",
+                "address": "Brazil",
+                "types": [
+                    "florist",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 2.0963861781521507
+            },
+            {
+                "name": "Relojoaria Sérvulo's",
+                "address": "Rua Padre Pedro Domingues, 41, São Domingos do Prata",
+                "types": [
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 4.272552998593115
+            }
+        ]
+    },
+    {
+        "Street": "Avenida Vitória Régia",
+        "HouseNumber": "560",
+        "Locality": "Serra do Salitre",
+        "Region": "Serra do Salitre",
+        "Province": "Minas Gerais",
+        "PostalCode": "38760-000",
+        "Country": "Brazil",
+        "Latitude": -19.1135626,
+        "Longitude": -46.6814239,
+        "ref_points": [
+            {
+                "name": "Restaurante Santa Terezinha",
+                "address": "Avenida Vitória Régia, 560 - Serra do Salitre",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.062385047625849e-10
+            },
+            {
+                "name": "Hotel Santa Terezinha",
+                "address": "Avenida Vitória Régia, 560 - Flores, Serra do Salitre",
+                "types": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 10.535501656603973
+            },
+            {
+                "name": "Dra Jussara Alves",
+                "address": "Avenida Vitória Régia, 452 - Flores, Serra do Salitre",
+                "types": [
+                    "dentist",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 22.016246147049266
+            }
+        ]
+    },
+    {
+        "Street": "Rua Magnólia",
+        "HouseNumber": "20",
+        "Locality": "Serra do Salitre",
+        "Region": "Serra do Salitre",
+        "Province": "Minas Gerais",
+        "PostalCode": "38760-000",
+        "Country": "Brazil",
+        "Latitude": -19.1134664,
+        "Longitude": -46.6863538,
+        "ref_points": [
+            {
+                "name": "Botequinho",
+                "address": "116, Rua Magnólia, 20, Serra do Salitre",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 7.476361601622822e-10
+            },
+            {
+                "name": "MANECO EMPORIO",
+                "address": "Rua Magnólia - Serra do Salitre",
+                "types": [
+                    "grocery_or_supermarket",
+                    "food",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 13.904413806893123
+            },
+            {
+                "name": "Sorveteria Artesanal By Botequinho",
+                "address": "Rua Magnólia, 50 - Centro, Serra do Salitre",
+                "types": [
+                    "food",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 22.52476547915734
+            }
+        ]
+    },
+    {
+        "Street": "BR-369",
+        "HouseNumber": "456",
+        "Locality": "Ubiratã",
+        "Region": "Ubiratã",
+        "Province": "Paraná",
+        "PostalCode": "85440-000",
+        "Country": "Brazil",
+        "Latitude": -24.546888,
+        "Longitude": -53.0413897,
+        "ref_points": [
+            {
+                "name": "Posto BCA Brasilia",
+                "address": "BR-369, 456, Ubiratã",
+                "types": [
+                    "gas_station",
+                    "car_wash",
+                    "convenience_store",
+                    "car_repair",
+                    "restaurant",
+                    "food",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 0.0
+            },
+            {
+                "name": "Parada Brasília",
+                "address": "BR-369, Ubiratã",
+                "types": [
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "distance": 103.25116610242213
+            }
+        ]
+    }
+]
