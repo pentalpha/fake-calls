@@ -1,0 +1,12 @@
+Prioridade,Natureza,TiposAgencia,Descrição
+Alerta Vermelho,Incêndio Em Edificação,GM;CdBM;PM,Incêndio em um edifício residencial
+Alta,Incêndio Em Lixo,GM;CdBM,Incêndio em área de lixo
+Alta,Subsidências e Colapsos,CdBM;DC,Possível colapso de estrutura
+Alta,Incêndio Florestal,CdBM;DC,Incêndio em área de floresta (não em area urbana)
+Alta,Violência Doméstica,GM;PC;PM,Denúncia de violência doméstica
+Alta,Ataque de Animal,CdBM,Ataque de animal a um humano em área urbana
+Média,Captura/resgate de Animal,GM;CdBM;PM,Resgate de animal em perigo
+Média,Atendimento Ao Banhista,CdBM,Atendimento a banhista com uma dificuldade de baixa prioridade
+Média,Perícia de Incêndio,CdBM,Pedido de perícia em local de onde houve incêndio
+Baixa,Corte de Árvore,CdBM,Pedido de corte de tronco ou galho de árvore em área urbana visto que o não corte pode causar risco futuro
+Baixa,Risco de Desabamento,CdBM,Aviso de risco de desabamento de estrutura em área urbana
