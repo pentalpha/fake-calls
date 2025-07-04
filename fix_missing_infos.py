@@ -68,6 +68,8 @@ def fix_missing(roteirizado: dict):
     #if len(not_found) > 3:
     #    print(json.dumps(roteirizado, indent=2, ensure_ascii=False))
 
+    return roteirizado
+
 if __name__ == "__main__":
     '''
     a = "Operador: Bom diaááá, estou aqui para ajudar. O que está acontecendo?\n\nSolicitante: Aju"
