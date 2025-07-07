@@ -81,7 +81,7 @@ if __name__ == "__main__":
     print('Generating address descriptions...')
     for endereco in tqdm(enderecos_brasil_with_ref_points):
         for ref_point in endereco['ref_points']:
-            if ref_point['distance'] >= 1:
+            if ref_point['distance'] >= 1 and 'political' not in ref_point['types']:
                 for desc,desc_type in alternate_descriptions(endereco):
                     new_desc = {
                         "descricao": desc,

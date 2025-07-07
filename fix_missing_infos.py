@@ -13,24 +13,46 @@ def hard_norm_text_pt(text):
     text2 = text2.replace('  ', ' ')
     return text2
 
-def find_infos_using_kmers(script: str, fields_to_find: dict, th = 0.5):
+def find_infos_using_kmers(script: str, fields_to_find: dict, th0 = 0.42, th1 = 0.5, th2 = 0.85):
     script_norm = hard_norm_text_pt(script)
-    kmer_lines = [get_str_kmers(script_line, 3)
+    k_mer_len = 4
+    kmer_lines = [get_str_kmers(script_line, k_mer_len)
         for script_line in script_norm.split('\n')
+        if len(script_line) > 1]
+
+    no_norm_kmer_lines = [get_str_kmers(script_line, k_mer_len)
+        for script_line in script.split('\n')
         if len(script_line) > 1]
     
     not_found = set()
     for field_name, field_content in fields_to_find.items():
+        is_small = len(field_content) <= 6
+        th = th2 if is_small else th1
+        if len(field_content) > 23:
+            th = th0
+        text_kmers = no_norm_kmer_lines if is_small else kmer_lines
+
         if field_content != "":
-            content_norm = ' ' + hard_norm_text_pt(field_content) + ' '
-            content_kmers = get_str_kmers(content_norm, 3)
+            if is_small:
+                content_norm = field_content
+            else:
+                content_norm = ' ' + hard_norm_text_pt(field_content) + ' '
             found = False
-            for linemers in kmer_lines:
-                n_found = len([mer for mer in content_kmers if mer in linemers])
-                perc = n_found / len(content_kmers)
-                if perc >= th:
-                    found = True
-                    break
+            if len(content_norm) < k_mer_len:
+                found = field_content in script
+            else:
+                content_kmers = get_str_kmers(content_norm, k_mer_len)
+                for linemers in text_kmers:
+                    n_found = len([mer for mer in content_kmers if mer in linemers])
+                    try:
+                        perc = n_found / len(content_kmers)
+                        if perc >= th:
+                            found = True
+                            break
+                    except ZeroDivisionError:
+                        print(field_content, content_norm, content_kmers)
+                        print(linemers)
+                        quit(1)
             if not found:
                 not_found.add(field_name)
     
@@ -88,5 +110,7 @@ if __name__ == "__main__":
         roteirizados = json.load(
             open(input_file, 'r'))
         roteirizados = [fix_missing(r) for r in tqdm(roteirizados)]
+        for i, r in enumerate(roteirizados):
+            r['index'] = i
         output_file = input_file.replace('.json', '_final.json')
         json.dump(roteirizados, open(output_file, 'w'), indent=4, ensure_ascii=False)
