@@ -1,0 +1,460 @@
+[
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rua Monjoli, Centro",
+                "desc_tipo": "rua_bairro",
+                "rua": "Rua Monjoli",
+                "numero": "",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Paraná",
+                "CEP": "85980-000",
+                "coords": [
+                    -24.082567,
+                    -54.2531192
+                ],
+                "ref_name": "OdontoK",
+                "ref_endereco_completo": "Rua Monjoli, 655 - Centro, Guaíra",
+                "ref_tipos": [
+                    "dentist",
+                    "point_of_interest",
+                    "health",
+                    "establishment"
+                ],
+                "ref_distancia": 15.395682677529699
+            },
+            "Natureza": {
+                "Prioridade": "Alta",
+                "Natureza": "Ataque de Animal",
+                "TiposAgencia": "CdBM",
+                "Descrição": "Ataque de animal a um humano em área urbana"
+            },
+            "Duração da Ligacao (Minutos)": 3.03,
+            "Hora": "13h27min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 86,
+            "Genero": "H",
+            "Numero": "96477 6490",
+            "Instrucao": "Analfabestismo Funcional",
+            "Envolvimento": "Vizinho",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 7
+        },
+        "roteiro": "Operador: Bom dia, estou aqui para ajudar. O que está acontecendo?\n\nSolicitante: Ajudar! Tem um cachorro, um vira-lata, atacando um rapaz na rua!\n\nOperador: Ok, fique calmo. Onde está acontecendo?\n\nSolicitante: Na Rua Monjoli, perto do OdontoK.\n\nOperador: Certo. Você pode me dizer o que está acontecendo exatamente?\n\nSolicitante: O cachorro... ele mordeu um rapaz! Estou aqui perto, vendo!\n\nOperador: Entendo. Você consegue me dar o nome do rapaz que foi mordido?\n\nSolicitante: Não sei o nome... só vejo ele no chão.\n\nOperador: Tudo bem. Você pode me dizer se o cachorro está ainda na área?\n\nSolicitante: Acho que sim... ainda está por perto.\n\nOperador: Ok. Você está em segurança?\n\nSolicitante: Sim, estou aqui.\n\nOperador: Precisa de alguma ajuda?\n\nSolicitante: Não... só quero que eles ajudem o rapaz.\n\nOperador: Ok. Já acionamos a polícia e a equipe médica. Fique onde está até que eles cheguem.\n\nSolicitante: Tudo bem... Obrigado.\n\nOperador: Por favor, não hesite em ligar novamente se precisar de alguma coisa.\n",
+        "index": 0
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "MG-230, Salitre de Minas, Salitre de Minas",
+                "desc_tipo": "rua_bairro_cidade",
+                "rua": "MG-230",
+                "numero": "",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Minas Gerais",
+                "CEP": "38749-600",
+                "coords": [
+                    -19.0707004,
+                    -46.7964044
+                ],
+                "ref_name": "Restaurante Salitre",
+                "ref_endereco_completo": "s/n da - RUA Emirena Alves, nº 201 a margem da G, MG-230, 230 - km 83, Patrocínio",
+                "ref_tipos": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "ref_distancia": 23.918643458874655
+            },
+            "Natureza": {
+                "Prioridade": "Baixa",
+                "Natureza": "Risco de Desabamento",
+                "TiposAgencia": "CdBM",
+                "Descrição": "Aviso de risco de desabamento de estrutura em área urbana"
+            },
+            "Duração da Ligacao (Minutos)": 1.27,
+            "Hora": "12h57min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 93,
+            "Genero": "M",
+            "Numero": "(009) 93568-8819",
+            "Instrucao": "Graduação",
+            "Envolvimento": "Pedestre Avisando",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 0
+        },
+        "roteiro": "Operador: Bom dia, obrigado por ligar. Qual é o seu problema?\n\nSolicitante: A... a gente está caindo! A construção... está caindo!\n\nOperador: Calma, por favor. Onde está acontecendo?\n\nSolicitante: Na MG-230, perto do Restaurante Salitre.\n\nOperador: MG-230... Perto do Restaurante Salitre. Você pode me dar mais detalhes sobre o que está acontecendo?\n\nSolicitante: Tá caindo, tá! De repente, a parede... desmoronou um pouco. Eu vi!\n\nOperador: Entendi. É um risco de desabamento. Você pode me dizer se há pessoas próximas em perigo?\n\nSolicitante: Eu não sei... Eu só vi a parte caindo. É muito rápido.\n\nOperador: Tudo bem. A equipe de emergência já está ciente. Por favor, permaneça onde está até que nos falhem para mais informações.\n\nSolicitante: Ok. Só... só espero que ninguém se machuque.\n\nOperador: Estamos enviando ajuda. Fique à disposição, se precisar de mais alguma coisa.\n",
+        "index": 1
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Avenida Vitória Régia",
+                "desc_tipo": "rua",
+                "rua": "Avenida Vitória Régia",
+                "numero": "",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Minas Gerais",
+                "CEP": "38760-000",
+                "coords": [
+                    -19.1135626,
+                    -46.6814239
+                ],
+                "ref_name": "Dra Jussara Alves",
+                "ref_endereco_completo": "Avenida Vitória Régia, 452 - Flores, Serra do Salitre",
+                "ref_tipos": [
+                    "dentist",
+                    "health",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 22.016246147049266
+            },
+            "Natureza": {
+                "Prioridade": "Alta",
+                "Natureza": "Violência Doméstica",
+                "TiposAgencia": "GM;PC;PM",
+                "Descrição": "Denúncia de violência doméstica"
+            },
+            "Duração da Ligacao (Minutos)": 1.4,
+            "Hora": "15h51min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 6,
+            "Genero": "M",
+            "Numero": "90315 3398",
+            "Instrucao": "Analfabestismo Funcional",
+            "Envolvimento": "Vitima",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 10
+        },
+        "roteiro": "Operador: Boa tarde, atendimento da central. Pode me dizer o que está acontecendo?\n\nSolicitante: (Choro fraco, com dificuldade para se expressar) Preciso... preciso de ajuda. Está acontecendo em casa.\n\nOperador: Calma, tudo bem. Tente me dizer o que está acontecendo. Você pode me dar mais detalhes?\n\nSolicitante: (Aumenta o choro, balbuciando) Ele... ele está me machucando! Não para de me bater!\n\nOperador: Ok, mantenha a calma. Onde está acontecendo exatamente?\n\nSolicitante: (Soluça, com dificuldade) Em casa... na Avenida Vitória Régia. Tem uma farmácia ali perto, perto da Dra. Jussara.\n\nOperador: Tudo bem. Você pode me dizer o que está acontecendo no momento?\n\nSolicitante: (Chora e gagueja) Ele... ele está me chutando! Ele não para! Eu estou com medo!\n\nOperador: Entendo. Você está em perigo?\n\nSolicitante: (Afirmativo, quase inaudível) Sim! Eu quero que ele pare!\n\nOperador: Ok, mantenha a calma. Posso pedir ajuda?\n\nSolicitante: (Acima do choro) Por favor... por favor!\n\nOperador: Estamos enviando ajuda. Você pode me dizer o que está acontecendo no momento exato?\n\nSolicitante: (Soluça) Ele... ele me chutou! Estou no chão!\n\nOperador: Ok, estamos enviando a polícia. Você está bem?\n\nSolicitante: (Chora) Não... não estou bem...\n\nOperador: Mantenha a linha aberta, se possível. A polícia já está a caminho. Estamos aqui para ajudar.\n\nSolicitante: (Soluça fraca) Por favor...\n\nOperador: Fique onde está. A ajuda está chegando.\n\n",
+        "index": 2
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rua Shigiro Matsuyama, Número 62, Bairro Centro, Guaíra",
+                "desc_tipo": "rua_numero_bairro_cidade",
+                "rua": "Rua Shigiro Matsuyama",
+                "numero": "62",
+                "bairro": "",
+                "cidade": "Guaíra",
+                "estado": "Paraná",
+                "CEP": "85980-000",
+                "coords": [
+                    -24.0838091,
+                    -54.2451427
+                ],
+                "ref_name": "Borracharia Guaíra Pneus",
+                "ref_endereco_completo": "Rua Shingiro Matsuyama, 38 - Centro, Guaíra",
+                "ref_tipos": [
+                    "car_repair",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 21.538173980172445
+            },
+            "Natureza": {
+                "Prioridade": "Alta",
+                "Natureza": "Ataque de Animal",
+                "TiposAgencia": "CdBM",
+                "Descrição": "Ataque de animal a um humano em área urbana"
+            },
+            "Duração da Ligacao (Minutos)": 0.26,
+            "Hora": "20h34min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 55,
+            "Genero": "M",
+            "Numero": "5389 4449",
+            "Instrucao": "Ensino Técnico",
+            "Envolvimento": "Vitima",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 6
+        },
+        "roteiro": "Operador: Bom dia, Polícia Militar, pode falar?\n\nSolicitante: Por favor... preciso de ajuda... estou muito assustada...\n\nOperador: Calma, senhora. O que aconteceu? Conte o que está acontecendo.\n\nSolicitante: Um cachorro... um cachorro me atacou! Foi horrível...\n\nOperador: Onde aconteceu?\n\nSolicitante: Na Rua Shigiro Matsuyama... o número 62... é ali perto, na Rua Shigiro Matsuyama...\n\nOperador: Você pode me dar o endereço exato?\n\nSolicitante: É... Rua Shigiro Matsuyama, número 62... perto da Borracharia Guaíra Pneus. Sim, é ali perto.\n\nOperador: Você está se machucando?\n\nSolicitante: Um arranhão... um arranhão no braço... está doendo muito...\n\nOperador: Ok, precisamos enviar alguém para ajudar. Quanto tempo isso aconteceu?\n\nSolicitante: Foi muito rápido... só alguns segundos... eu não sei... talvez uns 30 segundos?\n\nOperador: Deixe-me confirmar. Você está em perigo agora?\n\nSolicitante: Estou com medo... com muito medo. Preciso de ajuda para sair daqui.\n\nOperador: Entendo. Estou enviando uma viatura imediatamente. Fique onde está e não se mova.\n\nSolicitante: Ok... ok... eu vou ficar aqui. Por favor... me ajude.\n\nOperador: Estamos enviando a ajuda. Fique calma.\n",
+        "index": 3
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rua Nove, 510",
+                "desc_tipo": "rua_numero",
+                "rua": "Rua Nove",
+                "numero": "510",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Paraná",
+                "CEP": "86140-000",
+                "coords": [
+                    -22.8549604,
+                    -51.0255346
+                ],
+                "ref_name": "Siri Kascudu",
+                "ref_endereco_completo": "Rua Nove, 489, Primeiro de Maio",
+                "ref_tipos": [
+                    "meal_takeaway",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 26.631951707765225
+            },
+            "Natureza": {
+                "Prioridade": "Média",
+                "Natureza": "Captura/resgate de Animal",
+                "TiposAgencia": "GM;CdBM;PM",
+                "Descrição": "Resgate de animal em perigo"
+            },
+            "Duração da Ligacao (Minutos)": 2.12,
+            "Hora": "7h45min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 12,
+            "Genero": "H",
+            "Numero": "6615 1550",
+            "Instrucao": "Analfabetismo Completo",
+            "Envolvimento": "Vitima",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 2
+        },
+        "roteiro": "Operador: Bom dia, estou aqui para ajudar. O que está acontecendo?\n\nSolicitante: A... a ajuda! Tem um cachorro preso!\n\nOperador: Onde está acontecendo?\n\nSolicitante: Na Rua Nove, perto do Siri Kascudu.\n\nOperador: Rua Nove, 510. Você pode me dizer exatamente o que aconteceu?\n\nSolicitante: Estava brincando com ele... e ele entrou em um buraco! Ele não sai!\n\nOperador: Entendo. O cachorro está preso em um buraco. Você consegue me dizer algo mais sobre como ele está?\n\nSolicitante: Ele está assustado! Eu não sei o que fazer!\n\nOperador: Calma, vamos respirar fundo. Você pode me dizer o que você vê? É um buraco grande?\n\nSolicitante: É um buraco... um buraco escuro. Ele está lá dentro.\n\nOperador: Você consegue alcançar o cachorro?\n\nSolicitante: Não... é muito fundo.\n\nOperador: Ok. Pode me dizer a sua localização exata?\n\nSolicitante: Rua Nove, 510, perto do Siri Kascudu.\n\nOperador: Perfeito. Eu preciso acionar o resgate. Aguarde um momento, por favor.\n\nSolicitante: Eu estou com medo...\n\nOperador: Eu sei. Estamos aqui para ajudar. Apenas fique onde está, e as equipes já estão a caminho.\n\nSolicitante: Você tem certeza?\n\nOperador: Sim, tenho certeza. Apenas espere por mais alguns minutos.\n\nSolicitante: Obrigado...\n",
+        "index": 4
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rua Quatro, Centro",
+                "desc_tipo": "rua_bairro",
+                "rua": "Rua Quatro",
+                "numero": "",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Paraná",
+                "CEP": "86140-000",
+                "coords": [
+                    -22.8554605,
+                    -51.0303998
+                ],
+                "ref_name": "Vidraçaria Souza",
+                "ref_endereco_completo": "Rua Quatro, N° 88 - Centro, Primeiro de Maio",
+                "ref_tipos": [
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 3.950007561491723
+            },
+            "Natureza": {
+                "Prioridade": "Alta",
+                "Natureza": "Ataque de Animal",
+                "TiposAgencia": "CdBM",
+                "Descrição": "Ataque de animal a um humano em área urbana"
+            },
+            "Duração da Ligacao (Minutos)": 2.84,
+            "Hora": "7h11min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "Bruno da Luz",
+            "Idade": 70,
+            "Genero": "H",
+            "Numero": "98079 1084",
+            "Instrucao": "Analfabestismo Funcional",
+            "Envolvimento": "Vitima",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 5
+        },
+        "roteiro": "Operador: Bom dia, Corpo de Bombeiros, pode falar?\n\nSolicitante: (Ofegante, com dificuldade para se pronunciar) Ajud... Ajuda!\n\nOperador: Calma, senhor. O que aconteceu? Onde você está?\n\nSolicitante: (Ainda ofegante) Tem... tem um cachorro... atacando... aqui...\n\nOperador: Um cachorro? Onde exatamente?\n\nSolicitante: Rua... Quatro... (Hesita) ... perto da Vidraçaria Souza...\n\nOperador: Rua Quatro, perto da Vidraçaria Souza. Você está em perigo? Você está machucado?\n\nSolicitante: (Luta para falar) Eu... eu estou tremendo... ele está me mordendo...\n\nOperador: Ok, senhor. Tente respirar fundo. Você está sendo mordido? Onde exatamente no corpo?\n\nSolicitante: (Com dificuldade) No braço... ele mordeu no braço...\n\nOperador: Seu braço. Você consegue me dizer o que está acontecendo? O cachorro é grande?\n\nSolicitante: (Ainda angustiado) É um cachorro grande... preto... está me atacando...\n\nOperador: Certo, um cachorro preto. Você consegue me dar seu nome?\n\nSolicitante: Bruno... da Luz... Bruno da Luz...\n\nOperador: Bruno da Luz. Poderia me falar o que está acontecendo exatamente?\n\nSolicitante: (Chorando) Ele... ele me mordeu... eu não sei o que fazer... estou com medo...\n\nOperador: Entendo, senhor Bruno. Estamos enviando ajuda. Por favor, permaneça onde está até que os bombeiros cheguem.  Você está seguro agora.\n\nSolicitante: (Atordoado) Agradeço... muito obrigado...\n\nOperador: Não há de quê, senhor Bruno. Os bombeiros estão a caminho.\n",
+        "index": 5
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Avenida Mate Laranjeira, 1000, Centro",
+                "desc_tipo": "rua_numero_bairro",
+                "rua": "Avenida Mate Laranjeira",
+                "numero": "1000",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Paraná",
+                "CEP": "85980-000",
+                "coords": [
+                    -24.0828248,
+                    -54.247716
+                ],
+                "ref_name": "",
+                "ref_endereco_completo": "Avenida Mate Laranjeira, 1018, Guaíra",
+                "ref_tipos": [
+                    "clothing_store",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 15.598751472191566
+            },
+            "Natureza": {
+                "Prioridade": "Baixa",
+                "Natureza": "Risco de Desabamento",
+                "TiposAgencia": "CdBM",
+                "Descrição": "Aviso de risco de desabamento de estrutura em área urbana"
+            },
+            "Duração da Ligacao (Minutos)": 2.51,
+            "Hora": "0h7min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 42,
+            "Genero": "H",
+            "Numero": "9 4337-1117",
+            "Instrucao": "Ensino Médio",
+            "Envolvimento": "Vitima",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 0
+        },
+        "roteiro": "Operador: Bom dia, estou atendendo sua solicitação de emergência. Por favor, tente me descrever o que está acontecendo.\n\nSolicitante: (Hesitante) A... a construção está caindo!\n\nOperador: Caindo? Onde exatamente?\n\nSolicitante: Na Avenida Mate Laranjeira.\n\nOperador: Sim, na Avenida Mate Laranjeira. Você pode me dar o número exato?\n\nSolicitante: 1000.\n\nOperador: 1000, Avenida Mate Laranjeira. Há pessoas próximas?\n\nSolicitante: Sim, muitas. Eu estou muito preocupado.\n\nOperador: Calma, senhor. Tente me dizer o que está acontecendo com mais detalhes. O que você vê?\n\nSolicitante: As paredes... estão desmoronando! Pequenos pedaços estão caindo.\n\nOperador: Entendo. Você está vendo isso com seus próprios olhos?\n\nSolicitante: Sim! Eu estou aqui perto e é muito perigoso.\n\nOperador: Tente me dizer se há alguém ferido.\n\nSolicitante: Eu não sei... estou muito nervoso para verificar.\n\nOperador: Ok. Você pode me confirmar o endereço novamente? Avenida Mate Laranjeira, número 1000.\n\nSolicitante: Isso mesmo. 1000.\n\nOperador: Ok, senhor. A equipe de emergência já está ciente e será enviada o mais rápido possível. Por favor, fique seguro e não se aproxime da área.\n\nSolicitante: Obrigado... muito obrigado.\n\nOperador: Por nada. Mantenha-se calmo.\n",
+        "index": 6
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rua Jura Núbia, 223",
+                "desc_tipo": "rua_numero",
+                "rua": "Rua Jura Núbia",
+                "numero": "223",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Maranhão",
+                "CEP": "65280-000",
+                "coords": [
+                    -1.448297,
+                    -45.7296635
+                ],
+                "ref_name": "",
+                "ref_endereco_completo": "Rua Castelo Branco - Cândido Mendes",
+                "ref_tipos": [
+                    "restaurant",
+                    "point_of_interest",
+                    "food",
+                    "establishment"
+                ],
+                "ref_distancia": 51.607513556710686
+            },
+            "Natureza": {
+                "Prioridade": "Alerta Vermelho",
+                "Natureza": "Incêndio Em Edificação",
+                "TiposAgencia": "GM;CdBM;PM",
+                "Descrição": "Incêndio em um edifício residencial"
+            },
+            "Duração da Ligacao (Minutos)": 1.77,
+            "Hora": "4h2min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "Mateus Viana",
+            "Idade": 89,
+            "Genero": "H",
+            "Numero": "92593 8190",
+            "Instrucao": "Analfabetismo Completo",
+            "Envolvimento": "Vitima",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 3
+        },
+        "roteiro": "Operador: Bom dia, estou aqui para ajudar. O que está acontecendo?\n\nSolicitante: Fogo... no prédio...\n\nOperador: Onde está o incêndio?\n\nSolicitante: No prédio... Jura Núbia... 223.\n\nOperador: Jura Núbia, 223. Tem certeza que é um incêndio?\n\nSolicitante: Sim! Tem fogo! Cheguei pra ver e tinha fumaça, cheirava muito mal.\n\nOperador: Entendo. Você está no prédio?\n\nSolicitante: Sim! Estou aqui. O fogo está dentro.\n\nOperador: Você está seguro?\n\nSolicitante: Estou aqui, tentando sair... É muito quente...\n\nOperador: Tente se afastar das chamas, se possível. Você consegue ver alguma saída?\n\nSolicitante: Não vejo... muita fumaça... estou com dificuldade para respirar...\n\nOperador: Calma, senhor. Tente manter a calma. Você consegue me dizer algo mais sobre o fogo? Tem pessoas dentro?\n\nSolicitante: Não sei... não consigo ver... só vejo fumaça... e fogo...\n\nOperador: Entendi. Pode, por favor, fornecer o seu nome?\n\nSolicitante: Mateus... Mateus Viana.\n\nOperador: Obrigado, Mateus. A sua localização é a Rua Jura Núbia, 223. Fui bem?\n\nSolicitante: Sim, estou aqui.\n\nOperador: Vou acionar a resposta para o incêndio. A equipe de emergência já está a caminho. Fique onde está até que eles cheguem.\n\nSolicitante: Ok... ok...\n",
+        "index": 7
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rua Maranhão, Ponto do Marambaia, Ponto do Marambaia",
+                "desc_tipo": "rua_bairro_cidade",
+                "rua": "Rua Maranhão",
+                "numero": "",
+                "bairro": "",
+                "cidade": "",
+                "estado": "Minas Gerais",
+                "CEP": "39810-000",
+                "coords": [
+                    -17.1839584,
+                    -41.4846536
+                ],
+                "ref_name": "AGROGIL VETERINÁRIA",
+                "ref_endereco_completo": "Ponto do Marambaia, Caraí",
+                "ref_tipos": [
+                    "store",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 7.21072278130396
+            },
+            "Natureza": {
+                "Prioridade": "Média",
+                "Natureza": "Atendimento Ao Banhista",
+                "TiposAgencia": "CdBM",
+                "Descrição": "Atendimento a banhista com uma dificuldade de baixa prioridade"
+            },
+            "Duração da Ligacao (Minutos)": 1.6,
+            "Hora": "21h11min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "Oliver Farias",
+            "Idade": 44,
+            "Genero": "H",
+            "Numero": "97741 0066",
+            "Instrucao": "Doutorado",
+            "Envolvimento": "Pedestre Avisando",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 2
+        },
+        "roteiro": "Operador: Bom dia, estou aqui para ajudar. Qual é a emergência?\n\nSolicitante: (Um pouco hesitante) Tem... tem um problema com um cachorro...\n\nOperador: Por favor, explique o que está acontecendo.\n\nSolicitante: É que um cachorro... um banhista... está se machucando. \n\nOperador: Você pode me dar mais detalhes sobre o que está acontecendo com o cachorro?\n\nSolicitante: É que ele está... ele não está respondendo. Parece que está com dor.\n\nOperador: Onde está acontecendo isso?\n\nSolicitante: Na Rua Maranhão, perto do AGROGIL VETERINÁRIA.\n\nOperador: Você pode me descrever o que aconteceu?\n\nSolicitante: Eu só vi ele caindo. Não sei o que deu nele.\n\nOperador: Você pode me dizer se o cachorro está respirando?\n\nSolicitante: Acho que sim. Ele está respirando, mas está muito quieto.\n\nOperador: Ok, estou enviando uma equipe para lá. Você pode me dar o seu nome, por favor?\n\nSolicitante: Oliver Farias.\n\nOperador: Tudo bem, Oliver. A equipe já está a caminho. Agradeço a sua ajuda.\n",
+        "index": 8
+    },
+    {
+        "Emergencia": {
+            "Endereco": {
+                "descricao": "Rio-Bahia, Número 7, Ponto do Marambaia",
+                "desc_tipo": "rua_numero_cidade",
+                "rua": "Rio-Bahia",
+                "numero": "",
+                "bairro": "Ponto do Marambaia",
+                "cidade": "Ponto do Marambaia",
+                "estado": "Minas Gerais",
+                "CEP": "39810-000",
+                "coords": [
+                    -17.1768779,
+                    -41.496067
+                ],
+                "ref_name": "Pousada Rio Sul",
+                "ref_endereco_completo": "Rio-Bahia, 7, Caraí",
+                "ref_tipos": [
+                    "lodging",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "ref_distancia": 7.222575325317348
+            },
+            "Natureza": {
+                "Prioridade": "Alta",
+                "Natureza": "Subsidências e Colapsos",
+                "TiposAgencia": "CdBM;DC",
+                "Descrição": "Possível colapso de estrutura"
+            },
+            "Duração da Ligacao (Minutos)": 3.66,
+            "Hora": "0h44min"
+        },
+        "Perfil do Solicitante": {
+            "Nome Solicitante": "",
+            "Idade": 86,
+            "Genero": "M",
+            "Numero": "90527 1678",
+            "Instrucao": "Analfabestismo Funcional",
+            "Envolvimento": "Vizinho",
+            "Nível de Desespero/Estresse/Medo (0 a 10)": 7
+        },
+        "roteiro": "Operador: Bom dia, estamos recebendo uma chamada de emergência. Por favor, tente me dizer o que está acontecendo.\n\nSolicitante: (voz trêmula) Ai, Deus... estou com muito medo... parece que a casa... a casa está caindo!\n\nOperador: Calma, senhor(a). Tente me dizer o que você vê. Onde você está?\n\nSolicitante: No Rio-Bahia... aqui no número sete... Ponto do Marambaia.\n\nOperador: Rio-Bahia, número sete, Ponto do Marambaia.  Você pode descrever o que está acontecendo lá?\n\nSolicitante: O chão... está tremendo! E um barulho... um ruído muito forte! As paredes... parecem que vão desmoronar!\n\nOperador:  Entendo.  É um colapso? Você consegue ver alguma coisa específica caindo?\n\nSolicitante: Sim! A casa ao lado... está caindo!  A parte de cima... está desmoronando!  Eu não sei o que fazer!\n\nOperador:  Tente ficar calmo.  Você pode me dizer o endereço exato?  É o Rio-Bahia, número sete, Ponto do Marambaia.  Há alguma outra construção próxima que também está em perigo?\n\nSolicitante:  A Pousada Rio Sul... está perto.  As paredes da pousada também estão rachando!\n\nOperador:  Ok, Pousada Rio Sul.  Você está seguro? Você está em algum lugar dentro da casa ou fora?\n\nSolicitante:  Estou dentro de casa... tentando me proteger... Mas o barulho está muito alto!\n\nOperador:  Tente me dar mais detalhes sobre o colapso.  Você vê pedaços caindo? Que tipo de estrutura está caindo?\n\nSolicitante:  O teto... está caindo!  Pedras, areia... tudo caindo!  Não consigo respirar direito!\n\nOperador:  Ok, senhor(a).  Aguarde, você consegue ver onde está o colapso? É uma casa, uma estrutura de concreto, outra coisa?\n\nSolicitante:  É a casa... e a pousada também!  Tudo está caindo!  Preciso de ajuda!\n\nOperador:  Tudo bem.  Estamos enviando ajuda.  Por favor, fique onde está, a menos que seja seguro.  Podemos precisar de mais informações, se possível.  Por favor, fique calmo.\n\nSolicitante:  (Choro) Por favor... me ajude...\n",
+        "index": 9
+    }
+]
